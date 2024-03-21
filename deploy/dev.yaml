@@ -6,5 +6,5 @@ metadata:
   labels: {}
 description: dev
 gke:
-  cluster: projects/elated-capsule-415713/locations/us-central1/clusters/autopilot-cluster1
+  cluster: projects/elated-capsule-415713/locations/us-central1-c/clusters/cluster-1
 
